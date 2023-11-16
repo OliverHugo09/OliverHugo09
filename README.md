@@ -38,11 +38,12 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oliverhugo09&show_icons=true&locale=es&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverhugo09&show_icons=true&locale=es&layout=compact&theme=transparent&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliverhugo09&theme=transparent&langs_count=8&card_width=320" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverhugo09&show_icons=true&locale=es&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+</a>
+
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
