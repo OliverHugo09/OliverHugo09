@@ -5,7 +5,7 @@
 </div>
 <br>
 <!-- About me -->
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ## About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;*About me*
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -34,11 +34,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliverhugo09" alt="oliverhugo09" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverhugo09&show_icons=true&locale=en&layout=compact" alt="oliverhugo09" /></p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverhugo09&show_icons=true&theme=transparent)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliverhugo09&show_icons=true&locale=en" alt="oliverhugo09" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oliverhugo09&show_icons=true&locale=es&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverhugo09&show_icons=true&locale=es&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliverhugo09&" alt="oliverhugo09" /></p>
 
