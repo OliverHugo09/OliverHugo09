@@ -26,11 +26,10 @@
   - Python
   - HTML CEO
   - CSS Avanzado
-- 🌟 Apasionado por aprender y resolver desafíos.
-- 🚀 En constante búsqueda de nuevos conocimientos.
-- 🔍 Buscando la oportunidad de aplicar mis habilidades.
-- 📚 Amante del aprendizaje continuo y la resolución de problemas.
-- 🔭 Explorando el mundo de la tecnología y su impacto en la sociedad.
+- 🌟 Apasionado por aprender y resolver desafíos
+- 🚀 En constante búsqueda de nuevos conocimientos
+- 🔍 Buscando la oportunidad para aplicar mis habilidades
+- 📚 Amante del aprendizaje continuo y la resolución de problemas
 - 🔨 Constructor de soluciones innovadoras
 - 🎮 Fanático de los videojuegos, 🍜 amante de la comida asiática, 📺 aficionado al anime, 🛒 cazador de ofertas, 🤖 entusiasta de la inteligencia artificial, 📱 apasionado por la tecnología y la electrónica, 🌿 explorador de la naturaleza al aire libre, 💰 interesado en el mundo cripto y las finanzas.
 <br>
@@ -52,8 +51,9 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,vite" />
-     <img src="https://assets.stickpng.com/images/62a7475d223343fbc2207cff.png" alt="ionic" width="40" height="40"/>
   </a>
+  
+  <img src="https://assets.stickpng.com/images/62a7475d223343fbc2207cff.png" alt="ionic" width="40" height="40"/>
 </p>
 
 <h3 align="left">Backend</h3>
@@ -73,8 +73,12 @@
 <h3 align="left">Cloud & Hosting</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,heroku,netlify" />
+    <img src="https://skillicons.dev/icons?i=firebase,heroku,netlify,aws" />
   </a>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="DigitalOcean" width="40" height="40"/>
+
+  <img src="https://e7.pngegg.com/pngimages/276/515/png-clipart-cloudinary-computer-software-software-as-a-service-digital-asset-management-others-miscellaneous-text-thumbnail.png" alt="cloudinary" width="45" height="46"/>
 </p>
 
 <h3 align="left">Version Control</h3>
