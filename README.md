@@ -12,9 +12,10 @@
   <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
   <img alt="github-snake" src="https://github.com/OliverHugo09/OliverHugo09/blob/main/snake.svg" />
 </picture>
-
 <br>
+
 <!-- About me -->
+
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> <b> About me</b>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
