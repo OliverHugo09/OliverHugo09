@@ -45,13 +45,15 @@
   </a>
 </p>
 
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
 <h3 align="left">Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,vite" />
   </a>
   
-  <img src="https://assets.stickpng.com/images/62a7475d223343fbc2207cff.png" alt="ionic" width="40" height="40"/>
+  <img src="https://github.com/OliverHugo09/OliverHugo09/blob/main/logos/ionic.png" alt="ionic" width="40" height="40"/>
 </p>
 
 <h3 align="left">Backend</h3>
@@ -79,18 +81,20 @@
   <img src="https://e7.pngegg.com/pngimages/276/515/png-clipart-cloudinary-computer-software-software-as-a-service-digital-asset-management-others-miscellaneous-text-thumbnail.png" alt="cloudinary" width="45" height="46"/>
 </p>
 
-<h3 align="left">Version Control</h3>
+<h3 align="left">Control de versiones</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,md" />
   </a>
 </p>
 
-<h3 align="left">Development tools</h3>
+<h3 align="left">Herramientas de desarrollo</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,linux,vscode" />
   </a>
+
+  <img src="https://github.com/OliverHugo09/OliverHugo09/blob/main/logos/Asana_logo.png" alt="Asana" width="40" height="40"/>
 </p>
 
 <!-- Github Stats -->
