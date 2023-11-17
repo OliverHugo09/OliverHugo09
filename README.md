@@ -6,7 +6,7 @@
 <br>
 
 <!--- snake -->
-## Contributions
+## Contribuciones / Commits
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
@@ -16,19 +16,18 @@
 
 <!-- About me -->
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> <b> About me</b>
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> <b> Sobre mi</b>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- **Estoy interesado por el desarrollo web Frontend y Backend**
+- **Estoy interesado por el desarrollo Frontend y Backend**
 - 🌱 Actualmente estoy aprendiendo...
-  - Django
-  - Python
   - HTML CEO
   - CSS Avanzado
+- 📖 Abierto a aprender nuevos lenguajes
+- 🔍 Buscando la oportunidad para aplicar mis habilidades
 - 🌟 Apasionado por aprender y resolver desafíos
 - 🚀 En constante búsqueda de nuevos conocimientos
-- 🔍 Buscando la oportunidad para aplicar mis habilidades
 - 📚 Amante del aprendizaje continuo y la resolución de problemas
 - 🔨 Constructor de soluciones innovadoras
 - 🎮 Fanático de los videojuegos, 🍜 amante de la comida asiática, 📺 aficionado al anime, 🛒 cazador de ofertas, 🤖 entusiasta de la inteligencia artificial, 📱 apasionado por la tecnología y la electrónica, 🌿 explorador de la naturaleza al aire libre, 💰 interesado en el mundo cripto y las finanzas.
@@ -37,11 +36,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-- Skills -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
-<h3 align="left">Languages</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Habilidades
+<h3 align="left">Lenguajes</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
   </a>
 </p>
 
@@ -59,7 +58,7 @@
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
 
@@ -73,7 +72,7 @@
 <h3 align="left">Cloud & Hosting</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,heroku,netlify,aws" />
+    <img src="https://skillicons.dev/icons?i=firebase,heroku,netlify" />
   </a>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="DigitalOcean" width="40" height="40"/>
