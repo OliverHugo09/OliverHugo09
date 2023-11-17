@@ -95,6 +95,7 @@
   </a>
 
   <img src="https://github.com/OliverHugo09/OliverHugo09/blob/main/logos/Asana_logo.png" alt="Asana" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Windows_logo_-_2012.png/800px-Windows_logo_-_2012.png" alt="Windows" width="40" height="40"/>
 </p>
 
 <!-- Github Stats -->
