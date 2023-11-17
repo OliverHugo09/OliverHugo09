@@ -4,6 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=1000&random=false&width=290&lines=Desarrollador+Frontend+%F0%9F%92%BB;Explorando+el+Backend+%F0%9F%95%B5%EF%B8%8F;Codificando+soluciones+%F0%9F%9A%80;Resolviendo+problemas+%F0%9F%A7%A9;Ideas+a+c%C3%B3digo+%F0%9F%92%A1;Aprendiendo+siempre+%F0%9F%93%9A%E2%9C%8D%EF%B8%8F" alt="Typing SVG" /></a>
 </div>
 <br>
+
 <!--- snake -->
 ## Contributions
 <picture>
