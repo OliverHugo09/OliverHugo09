@@ -20,12 +20,19 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+- **Estoy interesado por el desarrollo web Frontend y Backend**
+- 🌱 Actualmente estoy aprendiendo...
+  - Django
+  - Python
+  - HTML CEO
+  - CSS Avanzado
 - 🌟 Apasionado por aprender y resolver desafíos.
 - 🚀 En constante búsqueda de nuevos conocimientos.
 - 🔍 Buscando la oportunidad de aplicar mis habilidades.
 - 📚 Amante del aprendizaje continuo y la resolución de problemas.
 - 🔭 Explorando el mundo de la tecnología y su impacto en la sociedad.
 - 🔨 Constructor de soluciones innovadoras
+- 🎮 Fanático de los videojuegos, 🍜 amante de la comida asiática, 📺 aficionado al anime, 🛒 cazador de ofertas, 🤖 entusiasta de la inteligencia artificial, 📱 apasionado por la tecnología y la electrónica, 🌿 explorador de la naturaleza al aire libre, 💰 interesado en el mundo cripto y las finanzas.
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -39,13 +46,13 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 <h3 align="left">Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,vite" />
-     <img  src="https://assets.stickpng.com/images/62a7475d223343fbc2207cff.png" alt="ionic" width="40" height="40"/>
+     <img src="https://assets.stickpng.com/images/62a7475d223343fbc2207cff.png" alt="ionic" width="40" height="40"/>
   </a>
 </p>
 
