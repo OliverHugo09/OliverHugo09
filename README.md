@@ -25,11 +25,62 @@
 
 <!-- Skills -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<p align="center">
+<h3 align="left">Languages</h3>
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,tailwind,vite,nodejs,express,django,py,mysql,sequelize,firebase,github,git,vscode,linux,md,postman,heroku,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
   </a>
 </p>
+
+<h3 align="left">Frontend</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,vite" />
+     <img  src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Backend</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  </a>
+</p>
+
+<h3 align="left">Bases de Datos y ORM</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sequelize" />
+  </a>
+</p>
+
+<h3 align="left">Cloud & Hosting</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,heroku,netlify" />
+  </a>
+</p>
+
+<h3 align="left">Version Control</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,md" />
+  </a>
+</p>
+
+<h3 align="left">Testing & API Development</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+</p>
+
+
+
+
+
+
+
 
 <!-- Github Stats -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> *Github Stats*
