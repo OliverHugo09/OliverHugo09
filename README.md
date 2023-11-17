@@ -36,7 +36,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,vite" />
-     <img  src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
+     <img  src="https://assets.stickpng.com/images/62a7475d223343fbc2207cff.png" alt="ionic" width="40" height="40"/>
   </a>
 </p>
 
@@ -101,18 +101,18 @@
   </td>
 </tr>
 </table>
-<br>
 </p>  
 
 
 <!-- Contact -->
-<h3 align="left">Connect with me:</h3>
+## *Connect with me:*
 <p align="left">
 <a href="https://linkedin.com/in/oliver-hugo-lucero-silván-01a15122b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliver-hugo-lucero-silván-01a15122b" height="30" width="40" /></a>
 <a href="https://instagram.com/_oliverhugo2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_oliverhugo2" height="30" width="40" /></a>
 </p>
 
 <!--- snake -->
+## *Contributions*
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
