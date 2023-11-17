@@ -4,6 +4,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=1000&random=false&width=290&lines=Desarrollador+Frontend+%F0%9F%92%BB;Explorando+el+Backend+%F0%9F%95%B5%EF%B8%8F;Codificando+soluciones+%F0%9F%9A%80;Resolviendo+problemas+%F0%9F%A7%A9;Ideas+a+c%C3%B3digo+%F0%9F%92%A1;Aprendiendo+siempre+%F0%9F%93%9A%E2%9C%8D%EF%B8%8F" alt="Typing SVG" /></a>
 </div>
 <br>
+<!--- snake -->
+## *Contributions*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
+  <img alt="github-snake" src="https://github.com/OliverHugo09/OliverHugo09/blob/main/snake.svg" />
+</picture>
 <!-- About me -->
 ##<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>&nbsp;*About me*
 
@@ -111,10 +118,3 @@
 <a href="https://instagram.com/_oliverhugo2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_oliverhugo2" height="30" width="40" /></a>
 </p>
 
-<!--- snake -->
-## *Contributions*
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
-  <img alt="github-snake" src="https://github.com/OliverHugo09/OliverHugo09/blob/main/snake.svg" />
-</picture>
