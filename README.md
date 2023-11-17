@@ -68,10 +68,10 @@
   </a>
 </p>
 
-<h3 align="left">Testing & API Development</h3>
+<h3 align="left">Development tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman" />
+    <img src="https://skillicons.dev/icons?i=postman,linux,vscode" />
   </a>
 </p>
 
