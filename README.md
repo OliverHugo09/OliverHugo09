@@ -22,8 +22,8 @@
 
 - **Estoy interesado por el desarrollo Frontend y Backend**
 - 🌱 Actualmente estoy aprendiendo...
-  - HTML CEO
-  - CSS Avanzado
+  - HTML SEO
+  - React
 - 📖 Abierto a aprender nuevos lenguajes
 - 🔍 Buscando la oportunidad para aplicar mis habilidades
 - 🌟 Apasionado por aprender y resolver desafíos
